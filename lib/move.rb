@@ -13,11 +13,7 @@ def input_to_index(input)
 end
 
 def move(board, index, player = "X")
-   puts " #{board, index, player[0]} | #{board, index, player[1]} | #{board, index, player[2]} "
-  puts "-----------"
-  puts " #{board, index, player[3]} | #{board, index, player[4]} | #{board, index, player[5]} "
-  puts "-----------"
-  puts " #{board, index, player[6]} | #{board, index, player[7]} | #{board, index, player[8]} "
+  puts "#{input}"
 end
 
 
