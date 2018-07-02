@@ -12,7 +12,7 @@ def input_to_index(input)
   return input.to_i-1
 end
 
-def move(board, index, player = "X", O)
+def move(board, index, player = "X")
   puts "#{input}"
 end
 
