@@ -7,9 +7,6 @@ puts "Where would you like to go?"
 
 input = gets.strip
 index = input_to_index(input)
-input = move
-move = player
-player = X,O
 display_board(board)
 
 
