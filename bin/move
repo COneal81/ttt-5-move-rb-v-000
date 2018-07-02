@@ -9,7 +9,7 @@ input = gets.strip
 index = input_to_index(input)
 input = move
 move = player
-player = O,"X"
+player = O,"X",
 display_board(board)
 
 
